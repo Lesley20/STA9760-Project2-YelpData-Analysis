@@ -11,4 +11,6 @@ User subset: https://sta9760-yelp-datasets.s3.us-east-2.amazonaws.com/yelp-user/
 EMR cluster configuration and Notebook configuration.
 Setup of clusters and notebook is needed before any analysis. See below for configuration:
 
-![alt text]()
+![alt text](conf/Yelp-EMR-Cluster-Conf.png)
+
+![alt text](conf/Yelp-EMR-Cluster-Conf.png)
