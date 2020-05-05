@@ -5,7 +5,6 @@ I will analyze a subset of Yelp's business, reviews and user data. The dataset c
 ### Screenshot of s3 bucket look like
 ![alt text'](conf/bucket sc.png)
 
-
 ### URL links to each individual dataset
 Business subset: https://sta9760-yelp-datasets.s3.us-east-2.amazonaws.com/yelp-business/yelp_academic_dataset_business.json
 
